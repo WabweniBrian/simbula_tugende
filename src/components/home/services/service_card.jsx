@@ -1,5 +1,5 @@
 import ReactDOM from "react-dom";
-function ServiceCard(props) {
+function service_card(props) {
   return (
     <div class="news-card">
       <a href="#" class="news-card__card-link"></a>
@@ -17,4 +17,4 @@ function ServiceCard(props) {
     </div>
   );
 }
-export default ServiceCard;
+export default service_card;
